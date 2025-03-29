@@ -5,13 +5,9 @@
   <a href="https://ujjwalrupakheti.com.np" target="_blank">
     <img src="https://img.shields.io/badge/Website-ujjwalrupakheti.com.np-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Website">
   </a>
-
+  
   <a href="https://www.instagram.com/mr.uzaldahal/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-
-  <a href="https://github.com/Ujjwal-Gits" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
 
@@ -19,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-🚀 Passionate web developer with expertise in **Front-end Development** and **SEO Optimization**. I build **responsive, fast, and user-friendly** websites with clean and optimized code.
+🚀 I am a passionate web developer with expertise in **Front-end Development** and **SEO Optimization**. I have build **responsive, fast, and user-friendly** websites with clean and optimized code.
 
 ---
 
