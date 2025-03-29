@@ -1,17 +1,32 @@
 # Ujjwal Rupakheti
 
-Hello! I'm a Web Developer with a focus on building efficient web pages, and able to do deep research. Welcome to my GitHub profile.
+[![Website](https://img.shields.io/badge/Website-ujjwalrupakheti.com.np-brightgreen?style=flat&logo=google-chrome)](https://ujjwalrupakheti.com.np)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 
-## About Me
-- Location: Itahari, Nepal
-- Currently: Student but passionate about building personal projects.
-- Interests: Reading, Coding, and Learning
+## Software Engineer | Developer
 
-## Skills
-- Languages: Python, Java, JavaScript, CSS
+<div align="center">
+  <!-- Real-time GitHub Stats with accurate data -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  
+  <!-- Real GitHub Streak that displays your actual streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
 
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/ujjwal-rupakheti-bb421b339/)
-- [Email](mailto:ujjwalrupakheti87@gmail.com)
+## Tech Stack
 
-Thanks for visiting! Explore my repositories to see more of my work.
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+## Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat" alt="Profile views" />
+</p>
