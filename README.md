@@ -2,16 +2,24 @@
   <h1>Ujjwal Rupakheti</h1>
   <p><strong>Web Developer & SEO Expert</strong></p>
   
-  [![Website](https://img.shields.io/badge/Website-ujjwalrupakheti.com.np-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://ujjwalrupakheti.com.np)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.uzaldahal/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ujjwal-Gits)
+  <a href="https://ujjwalrupakheti.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/Website-ujjwalrupakheti.com.np-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Website">
+  </a>
+
+  <a href="https://www.instagram.com/mr.uzaldahal/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+  <a href="https://github.com/Ujjwal-Gits" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-Professional web developer with expertise in front-end technologies and search engine optimization. Creating responsive, user-friendly websites with clean code and optimal performance.
+🚀 Passionate web developer with expertise in **Front-end Development** and **SEO Optimization**. I build **responsive, fast, and user-friendly** websites with clean and optimized code.
 
 ---
 
