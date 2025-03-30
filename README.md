@@ -58,9 +58,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ujjwal-Gits&repo=watch-Ecommerce&theme=algolia&hide_border=true" />
   </a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ujjwal-Gits&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</div>
