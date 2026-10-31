@@ -3,11 +3,11 @@
 </a>
 
 <p align="center">
-  <a href="#products"><img src="./assets/nav-products.svg" height="44" alt="Products"/></a>
-  <a href="#impact"><img src="./assets/nav-impact.svg" height="44" alt="Impact"/></a>
-  <a href="#quiz"><img src="./assets/nav-quiz.svg" height="44" alt="Quiz"/></a>
-  <a href="#stack"><img src="./assets/nav-stack.svg" height="44" alt="Stack"/></a>
-  <a href="#say-hi"><img src="./assets/nav-sayhi.svg" height="44" alt="Say hi"/></a>
+  <a href="#products"><img src="./assets/nav-products.svg" height="38" alt="Products"/></a>
+  <a href="#impact"><img src="./assets/nav-impact.svg" height="38" alt="Impact"/></a>
+  <a href="#quiz"><img src="./assets/nav-quiz.svg" height="38" alt="Quiz"/></a>
+  <a href="#stack"><img src="./assets/nav-stack.svg" height="38" alt="Stack"/></a>
+  <a href="#say-hi"><img src="./assets/nav-sayhi.svg" height="38" alt="Say hi"/></a>
 </p>
 
 <p align="center">
